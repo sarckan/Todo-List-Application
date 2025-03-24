@@ -28,7 +28,7 @@ A simple and elegant to-do list application with a modern glass effect design. â
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/your-username/Todo-List-Application.git
 ```
 
 2. Open `index.html` in your web browser to start using the app.
